@@ -94,7 +94,7 @@ function Experience() {
                 <article className='experience_details'>
                     <FaPython className="experience_details-icon"/>
                     <div>
-                        <h4>python(Django)</h4>
+                        <h4>Django</h4>
                         <small className='text-light'>Intermediate</small>
                     </div>
                 </article>
