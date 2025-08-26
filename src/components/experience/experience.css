@@ -40,10 +40,10 @@
 @media screen and (max-width:1024px){
     .experience_container{
         grid-template-columns: 1fr;
-        gap: 0;
+        gap: 2rem;
     }
     .experience_container > div{
-        width: 80%;
+        width: 100%;
         margin: 0 auto;
         padding: 2rem;
     }
@@ -56,11 +56,13 @@
 
 @media screen and (max-width:600px){
      .experience_container{
-        gap: 1rem;
+        width: 100%;
+        gap: 1.5rem;
         justify-content: center;
      } 
      .experience_container > div{
-        width: 100%;
+        /* width: 100%; */
         padding: 2rem 1rem;
      }
+    
 }
