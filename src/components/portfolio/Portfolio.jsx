@@ -46,7 +46,7 @@ const Portfolio = () => {
             <div className="portfolio_item-image">
               <img src={IMG4} alt="" />
             </div>  
-              <h3>Tho Do List</h3>
+              <h3>To Do List</h3>
               <div className="portfolio_items-cta">
                 <a href="https://github.com/maharshi027/To-Do-List" className='btn'>Github</a>
                 <a href="https://do-it-now-one.vercel.app/" target='_blank' className='btn btn-primary'>Live Demo</a>  
