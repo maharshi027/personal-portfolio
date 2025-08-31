@@ -8,11 +8,14 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonial from './components/testimonials/Testimonial'
 import Contact from './components/contacts/Contact'
 import Footer from './components/footer/Footer'
+import Theme from './components/theme/Theme'
+
 
 function App() {
- 
+   
   return (
     <>
+     <Theme/>
      <Header/>
      <Nav/>
      <About/>
