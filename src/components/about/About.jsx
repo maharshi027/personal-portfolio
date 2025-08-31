@@ -1,9 +1,9 @@
 import React from 'react'
 import './about.css'
 import ME from '../../assets/about_img.png'
-import { RiAwardFill } from "react-icons/ri";
+import { GiGiftOfKnowledge } from "react-icons/gi";
 import { GoProjectSymlink } from "react-icons/go";
-import { HiUsers } from "react-icons/hi2";
+import { LiaAwardSolid } from "react-icons/lia";
 function About() {
   return (
     <section id='about'>
@@ -20,14 +20,14 @@ function About() {
             <div className="about_content">
                 <div className="about_cards">
                     <article className='about_card'>
-                        <RiAwardFill className='about_icon'/>
+                        <GiGiftOfKnowledge className='about_icon'/>
                        <h5>Experience</h5> 
                        <small>fresher</small>
                     </article>
                     <article className='about_card'>
-                        <HiUsers className='about_icon'/>
-                       <h5>Client</h5> 
-                       <small>200+ worldwide</small>
+                        <LiaAwardSolid className='about_icon'/>
+                       <h5>rewards</h5> 
+                       <small>15+ certification</small>
                     </article>
                     <article className='about_card'>
                         <GoProjectSymlink className='about_icon'/>
