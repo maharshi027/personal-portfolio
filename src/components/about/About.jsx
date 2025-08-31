@@ -26,7 +26,7 @@ function About() {
                     </article>
                     <article className='about_card'>
                         <LiaAwardSolid className='about_icon'/>
-                       <h5>rewards</h5> 
+                       <h5>Awards</h5> 
                        <small>15+ certification</small>
                     </article>
                     <article className='about_card'>
