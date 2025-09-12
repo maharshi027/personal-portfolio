@@ -34,12 +34,12 @@ const Portfolio = () => {
         </article>
         <article className='portfolio_items'>
             <div className="portfolio_item-image">
-              <img src={IMG3} alt="" />
+              <img src= {IMG3} alt="" />
             </div>  
-              <h3>Weather App</h3>
+              <h3>MBBS Abroad Study</h3>
               <div className="portfolio_items-cta">
-                <a href="https://github.com/maharshi027/Weather-App" className='btn'>Github</a>
-                <a href="https://weather-app-seven-ebon-63.vercel.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
+                <a href="https://github.com/maharshi027/mbbs-abroad-landing-page" className='btn'>Github</a>
+                <a href="https://mbbs-abroad-landing-page.vercel.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
               </div>
         </article>
         <article className='portfolio_items'>
