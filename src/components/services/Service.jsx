@@ -1,4 +1,3 @@
-import React from 'react'
 import './service.css'
 import { FaCheck } from "react-icons/fa";
 

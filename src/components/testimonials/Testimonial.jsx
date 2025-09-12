@@ -1,4 +1,3 @@
-import React from 'react'
 import './testimonial.css'
 
 import { Swiper, SwiperSlide } from 'swiper/react'

@@ -1,4 +1,3 @@
-import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/IMG1.webp'
 import IMG2 from '../../assets/IMG2.webp'
