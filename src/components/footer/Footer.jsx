@@ -1,7 +1,7 @@
 import React from 'react'
 import './footer.css'
 import { FaInstagramSquare } from "react-icons/fa";
-import { FaSnapchatSquare } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 function Footer() {
   return (
@@ -19,7 +19,7 @@ function Footer() {
 
         <div className="footer_socials">
             <a href="https://instagram.com/maharshi027"><FaInstagramSquare /></a>
-            <a href="https://snapchat.com/add/maharshi027"><FaSnapchatSquare /></a>
+            <a href="https://linkedin.com/in/maharshi027"><FaLinkedin /></a>
             <a href="https://x.com/maharshi_27"><FaSquareXTwitter /></a>
         </div>
 
